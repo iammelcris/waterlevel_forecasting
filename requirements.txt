@@ -133,7 +133,7 @@ PyHamcrest==1.9.0
 pymongo==3.5.1
 -e git+https://github.com/classner/pymp.git@9895ec2ec01ad2778a400449cbfa17f162491180#egg=pymp_pypi
 PyMySQL==0.7.11
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.1.10
 pyperclip==1.5.32
 pypiwin32==223
